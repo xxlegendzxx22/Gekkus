@@ -1,0 +1,6 @@
+C:\Users\Maksim\source\repos\ZXCGHOUL993\obj\x86\Debug\ZXCGHOUL993.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\ZXCGHOUL993\obj\x86\Debug\ZXCGHOUL993.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maksim\source\repos\ZXCGHOUL993\obj\x86\Debug\ZXCGHOUL993.Form1.resources
+C:\Users\Maksim\source\repos\ZXCGHOUL993\obj\x86\Debug\ZXCGHOUL993.Properties.Resources.resources
+C:\Users\Maksim\source\repos\ZXCGHOUL993\obj\x86\Debug\ZXCGHOUL993.csproj.GenerateResource.cache
+C:\Users\Maksim\source\repos\ZXCGHOUL993\obj\x86\Debug\ZXCGHOUL993.csproj.CoreCompileInputs.cache
