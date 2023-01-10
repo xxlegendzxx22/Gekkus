@@ -267,15 +267,15 @@ namespace ZXCGHOUL993
 
         private void сохранитьToolStripButton_Click(object sender, EventArgs e)
         {
-            if (B == false)
-            {
-                MessageBox.Show("Нечего сохранять", "Ошибка");
-                return;
-            }
-            else
+            if (B != false)
             {
                 SAVE gekus = new SAVE();
                 gekus.Main1(dataGridView1);
+            }
+            else
+            {
+                MessageBox.Show("Нечего сохранять", "Ошибка");
+                return;
             }
         }
 
