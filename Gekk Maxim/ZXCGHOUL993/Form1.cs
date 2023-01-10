@@ -272,11 +272,7 @@ namespace ZXCGHOUL993
                 SAVE gekus = new SAVE();
                 gekus.Main1(dataGridView1);
             }
-            else
-            {
-                MessageBox.Show("Нечего сохранять", "Ошибка");
-                return;
-            }
+
         }
 
         private void сгенерироватьМакетToolStripMenuItem_Click(object sender, EventArgs e)
